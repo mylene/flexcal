@@ -1,0 +1,14 @@
+Item;Duration;Repeat;Date;Start;End;BusinessHours;Split;DeadlineDate;
+Take dogs to caretaker;;W;;5.40;6.00;;N;;
+Commute;;W;;6.00;6.45;;N;;
+Commute (includes getting dogs);;W;;15.45;17:00;;N;;
+Lunch/walk;30m;W;;12.00;;;N;;
+Re-read Kanban in Action;8h;;;;;Y;Y;;
+Check e-mail morning;30;D;;;12.00;Y;N;;
+Check e-mail afternoon;15;D;;;15.30;Y;N;;
+Stand-up;15;W;;9.00;9.15;;N;;
+Cook, eat, do the dishes;90;D;;;;N;N;;
+Walk the dogs;45;D;;;;N;N;;
+Check for new jobs;15;W;;;;Y;N;;
+Create plan for tomorrow;15;D;;;;Y;N;;
+Celebrate birthday;;;2019-03-16;10.00;18.00;N;N;;
