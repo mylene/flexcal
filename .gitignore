@@ -4,7 +4,6 @@
 # Ignore Gradle build output directory
 build/
 
-
 # Created by https://www.gitignore.io/api/java,maven,windows,intellij+all
 # Edit at https://www.gitignore.io/?templates=java,maven,windows,intellij+all
 
@@ -42,6 +41,8 @@ build/
 .idea/modules.xml
 .idea/*.iml
 .idea/modules
+
+.idea/compiler.xml
 
 # CMake
 cmake-build-*/
