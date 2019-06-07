@@ -5,7 +5,11 @@ flexCal is a calendar / to do app, inspired by [Above & Beyond] (A&B).
 What I like about A&B is the dynamic scheduling. 
 Based on your settings, flexCal will automatically create the best schedule for you.
 
+-----
+2019-06-07
 
+Created base Microservice dateMan (going to be used for date manipulation) using [helidon.io](http://helidon.io), copied base application, 
+updated it to Java 12 and modularised (Jigsaw) it.
 
 -----
 2019-06-06
