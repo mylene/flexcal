@@ -20,6 +20,8 @@ Based on your settings, flexCal will automatically create the best schedule for 
 Created base Microservice dateMan (going to be used for date manipulation) using [helidon.io](http://helidon.io), copied base application, 
 updated it to Java 12 and modularised (Jigsaw) it.
 
+Added some badges (kind of useful BTW. They check the status of the application). For more information on this check my [vOO repository].
+
 -----
 2019-06-06
 
@@ -44,3 +46,4 @@ Steps taken:
 
 <!--- Links -->
 [Above & Beyond]: http://www.1soft.com/aandb.html
+[vOO repository]: https://github.com/mylene/vOO/
