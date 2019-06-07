@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/mylene/flexCal.svg?branch=master)](https://travis-ci.org/mylene/flexCal)
-
+[![Build Status](https://travis-ci.org/mylene/flexCal.svg?branch=master)](https://travis-ci.org/mylene/flexCal) &nbsp;
+[![codecov](https://codecov.io/gh/mylene/flexCal/branch/master/graph/badge.svg)](https://codecov.io/gh/mylene/flexCal)
 
 
 # flexCal
