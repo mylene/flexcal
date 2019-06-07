@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/mylene/flexCal.svg?branch=master)](https://travis-ci.org/mylene/flexCal)
+
+
+
 # flexCal
 
 flexCal is a calendar / to do app, inspired by [Above & Beyond] (A&B).
