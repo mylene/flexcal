@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/mylene/flexCal.svg?branch=master)](https://travis-ci.org/mylene/flexCal) &nbsp;
 [![codecov](https://codecov.io/gh/mylene/flexCal/branch/master/graph/badge.svg)](https://codecov.io/gh/mylene/flexCal) &nbsp;
 [![Known Vulnerabilities](https://snyk.io/test/github/mylene/flexCal/badge.svg)](https://snyk.io/test/github/mylene/flexCal) &nbsp;
-[![Code Inspector](https://www.code-inspector.com/project/157/status/svg)](https://www.code-inspector.com/public/project/157/flexCal/dashboard) &nbsp;
+
 
 
 # flexCal
@@ -10,6 +10,20 @@ flexCal is a calendar / to do app, inspired by [Above & Beyond] (A&B).
 
 What I like about A&B is the dynamic scheduling. 
 Based on your settings, flexCal will automatically create the best schedule for you.
+
+-----
+
+2019-06-11
+
+Removed some badges, added other ones (to test, and just because I could :)
+
+[![Code Inspector](https://www.code-inspector.com/project/157/status/svg)](https://www.code-inspector.com/public/project/157/flexCal/dashboard) &nbsp; 
+[![CodeFactor](https://www.codefactor.io/repository/github/mylene/flexcal/badge)](https://www.codefactor.io/repository/github/mylene/flexcal) &nbsp;
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/mylene/flexCal.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mylene/flexCal/alerts/) &nbsp;
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/mylene/flexCal.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mylene/flexCal/context:javascript) &nbsp;
+
+
+
 
 -----
 2019-06-07
