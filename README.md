@@ -1,11 +1,6 @@
 [![Build Status](https://travis-ci.org/mylene/flexCal.svg?branch=master)](https://travis-ci.org/mylene/flexCal) &nbsp;
 [![codecov](https://codecov.io/gh/mylene/flexCal/branch/master/graph/badge.svg)](https://codecov.io/gh/mylene/flexCal) &nbsp;
 [![Known Vulnerabilities](https://snyk.io/test/github/mylene/flexCal/badge.svg)](https://snyk.io/test/github/mylene/flexCal) &nbsp;
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ed9af0b84d14df3b5e4aafaf464b095)](https://www.codacy.com/app/mylenereiners/flexCal_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mylene/flexCal&amp;utm_campaign=Badge_Grade)  &nbsp;
-<a href="https://scan.coverity.com/projects/mylene-flexcal">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/18561/badge.svg"/>
-</a>
 
 # flexCal
 
