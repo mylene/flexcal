@@ -21,6 +21,8 @@ Removed some badges, added other ones (to test, and just because I could :)
 [![CodeFactor](https://www.codefactor.io/repository/github/mylene/flexcal/badge)](https://www.codefactor.io/repository/github/mylene/flexcal) &nbsp;
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/mylene/flexCal.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mylene/flexCal/alerts/) &nbsp;
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/mylene/flexCal.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mylene/flexCal/context:javascript) &nbsp;
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mylene_flexCal&metric=alert_status)](https://sonarcloud.io/dashboard?id=mylene_flexCal)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=mylene_flexCal&metric=sqale_index)](https://sonarcloud.io/dashboard?id=mylene_flexCal)
 
 
 
